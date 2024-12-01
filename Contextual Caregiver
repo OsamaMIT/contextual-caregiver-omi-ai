@@ -3,7 +3,7 @@
   "name": "Contextual Caregiver",
   "author": "Osama",
   "description": "A caregiving assistant that tracks care routines, medication schedules, and personal preferences for a single individual.",
-  "image": "/plugins/logos/caregiver-heart.jpg",
+  "image": "/plugins/logos/caregiver-heart.png",
   "memories": true,
   "chat": true,
   "capabilities": [
